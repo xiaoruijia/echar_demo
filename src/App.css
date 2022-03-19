@@ -1,0 +1,70 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+}
+
+#root {
+    height: 100%;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.App {
+    text-align: center;
+    height: 95%;
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    background: #e0e0e0;
+}
+
+.card_line {
+    width: 98%;
+    height: 20%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.echarts_box {
+    height: 60%;
+    width: 98%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background: #fff;
+}
+
+.echarts {
+    height: 100%;
+    width: 100%;
+}
+
+@font-face {
+    font-family: 'iconfont';
+    src: url('./asset/iconfont/iconfont.woff2?t=1647586811002') format('woff2'),
+    url('./asset/iconfont/iconfont.woff?t=1647586811002') format('woff'),
+    url('./asset/iconfont/iconfont.ttf?t=1647586811002') format('truetype');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}

@@ -1,0 +1,37 @@
+{
+  "id": "3257668",
+  "name": "demo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "538866",
+      "name": "链接",
+      "font_class": "lianjie",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "2279453",
+      "name": "箭头",
+      "font_class": "jiantou-copy",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "6539450",
+      "name": "眼睛",
+      "font_class": "yanjing",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "26179118",
+      "name": "盒子",
+      "font_class": "hezi",
+      "unicode": "e74a",
+      "unicode_decimal": 59210
+    }
+  ]
+}
